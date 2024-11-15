@@ -5,6 +5,12 @@ import check_round from '../assets/check_round_icon.svg'
 import gear_icon from '../assets/gear_icon.svg'
 import reuse_icon from '../assets/reuse_icon.svg'
 import logo_icon from '../assets/icon_header.png'
+import cloth from '../assets/cloth.png'
+import shoes from '../assets/shoes.png'
+import bag from '../assets/bag.png'
+import furniture from '../assets/furniture.png'
+import electronic from '../assets/electronic.png'
+
 
 const About = () => {
 
@@ -13,27 +19,27 @@ const About = () => {
 
     let cardContent = [
         {
-            link: "./src/assets/cloth.png",
+            link: cloth,
             title: "Cloth",
             caption: "casual, formal, sportswear, outerwear, vintage, streetwear, hingga party wear!"
         },
         {
-            link: "./src/assets/shoes.png",
+            link: shoes,
             title: "Shoes",
             caption: "sneakers, heels, boots, loafers, sandals, hingga sepatu formal!"
         },
         {
-            link: "./src/assets/bag.png",
+            link: bag,
             title: "Bag",
             caption: "tote, sling bag, backpack, clutch, shoulder bag, hingga tas formal!"
         },
         {
-            link: "./src/assets/furniture.png",
+            link: furniture,
             title: "Furniture",
             caption: "sofa, meja, kursi, lemari, rak, hingga dekorasi unik!"
         },
         {
-            link: "./src/assets/electronic.png",
+            link: electronic,
             title: "Electronic",
             caption: "smartphone, laptop, kamera, tablet, speaker, hingga perangkat rumah tangga!"
         }
