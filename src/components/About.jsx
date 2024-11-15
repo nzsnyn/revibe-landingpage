@@ -13,27 +13,27 @@ const About = () => {
 
     let cardContent = [
         {
-            link: "src/assets/cloth.png",
+            link: "./src/assets/cloth.png",
             title: "Cloth",
             caption: "casual, formal, sportswear, outerwear, vintage, streetwear, hingga party wear!"
         },
         {
-            link: "src/assets/shoes.png",
+            link: "./src/assets/shoes.png",
             title: "Shoes",
             caption: "sneakers, heels, boots, loafers, sandals, hingga sepatu formal!"
         },
         {
-            link: "src/assets/bag.png",
+            link: "./src/assets/bag.png",
             title: "Bag",
             caption: "tote, sling bag, backpack, clutch, shoulder bag, hingga tas formal!"
         },
         {
-            link: "src/assets/furniture.png",
+            link: "./src/assets/furniture.png",
             title: "Furniture",
             caption: "sofa, meja, kursi, lemari, rak, hingga dekorasi unik!"
         },
         {
-            link: "src/assets/electronic.png",
+            link: "./src/assets/electronic.png",
             title: "Electronic",
             caption: "smartphone, laptop, kamera, tablet, speaker, hingga perangkat rumah tangga!"
         }
