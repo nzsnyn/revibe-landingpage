@@ -9,7 +9,7 @@ import cloth from '../assets/cloth.png'
 import shoes from '../assets/shoes.png'
 import bag from '../assets/bag.png'
 import furniture from '../assets/furniture.png'
-import electronic from '../assets/electronic.png'
+import electronic from '../assets/Electronic.png'
 
 
 const About = () => {
@@ -104,7 +104,6 @@ const About = () => {
                             </div>
                         ))
                     }
-
                 </div>
             </div>
         </div>
