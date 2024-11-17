@@ -3,8 +3,8 @@ import hero from '../assets/hero.png'
 
 const Hero = () => {
     return (
-        <div id='home'>  
-            <img className='pt-24  rounded-sm mx-auto' src={hero} alt="Hero Image" />
+        <div id='hero'>
+            <img className='pt-24 mx-auto rounded-sm' src={hero} alt="Hero Image" />
         </div>
     )
 }

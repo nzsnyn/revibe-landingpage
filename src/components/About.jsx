@@ -91,8 +91,8 @@ const About = () => {
             </div>
 
 
-            <div className='container px-4 py-8 mx-auto'>
-                <h1 className='mb-8 text-2xl font-bold text-center'>About Us</h1>
+            <div className='container px-4 py-8 mx-auto' id='product'>
+                <h1 className='mb-8 text-2xl font-bold text-center'>Our Product</h1>
                 <div className='grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
                     {cardContent.map((item, index) => (
                         <div key={index} className='flex flex-col items-center p-4 border rounded-lg shadow-sm'>

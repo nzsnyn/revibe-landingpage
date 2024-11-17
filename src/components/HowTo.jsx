@@ -3,7 +3,7 @@ import tutor from '../assets/how.png'
 
 const HowTo = () => {
     return (
-        <div className='p-4'>
+        <div className='p-4' id='howto'>
             <h1 className='text-2xl font-bold text-center sm:text-3xl md:text-4xl mt-9'>How it works</h1>
             <img className='w-full mx-auto mt-10 sm:w-5/6 md:w-4/6' src={tutor} alt="How to" />
 
