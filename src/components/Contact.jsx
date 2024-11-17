@@ -10,7 +10,7 @@ const Contact = () => {
     }
 
     return (
-        <div className='w-full px-4 mx-auto md:w-3/4'>
+        <div className='w-full px-4 mx-auto md:w-3/4' id='contact'>
             <h1 className='pt-4 pb-4 text-2xl font-bold md:text-4xl md:pt-8 md:pb-6'>Contact Us</h1>
             <p className='mb-4 text-lg font-light md:text-2xl md:mb-6'>send us a message</p>
 
